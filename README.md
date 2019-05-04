@@ -5,6 +5,6 @@ today i learned
 Add new Repository <br>
 today i learned <br>
 
-I want to study these languages
-*C#
-*python
+I want to study these languages <br><br>
+C#<br>
+python<br>
