@@ -1,2 +1,2 @@
-# -TIL
+# TIL
 today i learned
