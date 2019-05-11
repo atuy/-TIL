@@ -1,0 +1,16 @@
+2019/05/11
+first C# project 
+I study C # on this site
+
+HelloWorld : https://docs.microsoft.com/ko-kr/dotnet/csharp/tutorials/intro-to-csharp/hello-world
+
+The description of the code has been commented out
+
+Description of the method on this site
+
+Console.WriteLine method : https://docs.microsoft.com/ko-kr/dotnet/api/system.console.writeline?view=netframework-4.8#%EC%A0%95%EC%9D%98
+
+String.Trim method : https://docs.microsoft.com/ko-kr/dotnet/api/system.string.trim?view=netframework-4.8
+String.Contains method : https://docs.microsoft.com/ko-kr/dotnet/api/system.string.contains?view=netframework-4.8
+String.Length Property : https://docs.microsoft.com/ko-kr/dotnet/api/system.string.length?view=netframework-4.8#System_String_Length
+
