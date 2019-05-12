@@ -1,0 +1,9 @@
+2019/05/12
+learned by branches and loops command
+and manage date collections using the generic list type
+
+i study C# on this site
+
+project branches and loops : https://docs.microsoft.com/ko-kr/dotnet/csharp/tutorials/intro-to-csharp/branches-and-loops
+project list collection : https://docs.microsoft.com/ko-kr/dotnet/csharp/tutorials/intro-to-csharp/list-collection
+
