@@ -12,3 +12,7 @@ python<br>
 <br><br><br>
 ### 20190511 C# start
 I studied with reference to [this](https://docs.microsoft.com/ko-kr/dotnet/csharp/tutorials/intro-to-csharp/)
+
+<br><br><br>
+### 20190512 C#
+learned by branches-and-loops, list-collection
