@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-
+// List 컬랙션을 사용 할려면 필요한 지시문을 불러온다
 namespace list_collection
 {
     class Program
