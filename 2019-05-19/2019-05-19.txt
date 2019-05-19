@@ -1,0 +1,4 @@
+2019/05/19
+learned C# programming guide for dynamic
+
+site : https://docs.microsoft.com/ko-kr/dotnet/csharp/programming-guide/inside-a-program/coding-conventions
